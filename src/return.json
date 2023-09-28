@@ -1,0 +1,508 @@
+{
+    "cropHintsAnnotation": {
+      "cropHints": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 51
+              },
+              {
+                "x": 207
+              },
+              {
+                "x": 207,
+                "y": 193
+              },
+              {
+                "x": 51,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.66491824,
+          "importanceFraction": 1
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25
+              },
+              {
+                "x": 219
+              },
+              {
+                "x": 219,
+                "y": 193
+              },
+              {
+                "x": 25,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.5319346,
+          "importanceFraction": 1
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12
+              },
+              {
+                "x": 245
+              },
+              {
+                "x": 245,
+                "y": 193
+              },
+              {
+                "x": 12,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.44327888,
+          "importanceFraction": 1
+        }
+      ]
+    },
+    "imagePropertiesAnnotation": {
+      "cropHints": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 51
+              },
+              {
+                "x": 207
+              },
+              {
+                "x": 207,
+                "y": 193
+              },
+              {
+                "x": 51,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.66491824,
+          "importanceFraction": 1
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25
+              },
+              {
+                "x": 219
+              },
+              {
+                "x": 219,
+                "y": 193
+              },
+              {
+                "x": 25,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.5319346,
+          "importanceFraction": 1
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12
+              },
+              {
+                "x": 245
+              },
+              {
+                "x": 245,
+                "y": 193
+              },
+              {
+                "x": 12,
+                "y": 193
+              }
+            ]
+          },
+          "confidence": 0.44327888,
+          "importanceFraction": 1
+        }
+      ],
+      "dominantColors": {
+        "colors": [
+          {
+            "color": {
+              "blue": 7,
+              "green": 85,
+              "red": 183
+            },
+            "hex": "B75507",
+            "percent": 28.09373501874462,
+            "percentRounded": 28,
+            "pixelFraction": 0.080038264,
+            "rgb": "183, 85,\n 7",
+            "score": 0.14683677
+          },
+          {
+            "color": {
+              "blue": 20,
+              "green": 125,
+              "red": 225
+            },
+            "hex": "E17D14",
+            "percent": 18.639252453638996,
+            "percentRounded": 19,
+            "pixelFraction": 0.038265307,
+            "rgb": "225, 125,\n 20",
+            "score": 0.09742128
+          },
+          {
+            "color": {
+              "blue": 168,
+              "green": 197,
+              "red": 207
+            },
+            "hex": "CFC5A8",
+            "percent": 16.43498413437805,
+            "percentRounded": 16,
+            "pixelFraction": 0.107568026,
+            "rgb": "207, 197,\n 168",
+            "score": 0.08590029
+          },
+          {
+            "color": {
+              "blue": 55,
+              "green": 165,
+              "red": 159
+            },
+            "hex": "9FA537",
+            "percent": 5.57926644034108,
+            "percentRounded": 6,
+            "pixelFraction": 0.009672619,
+            "rgb": "159, 165,\n 55",
+            "score": 0.029161002
+          },
+          {
+            "color": {
+              "blue": 27,
+              "green": 119,
+              "red": 142
+            },
+            "hex": "8E771B",
+            "percent": 4.141423703631751,
+            "percentRounded": 4,
+            "pixelFraction": 0.008928572,
+            "rgb": "142, 119,\n 27",
+            "score": 0.021645868
+          },
+          {
+            "color": {
+              "blue": 91,
+              "green": 60,
+              "red": 49
+            },
+            "hex": "313C5B",
+            "percent": 2.06233577799332,
+            "percentRounded": 2,
+            "pixelFraction": 0.007865646,
+            "rgb": "49, 60,\n 91",
+            "score": 0.010779155
+          },
+          {
+            "color": {
+              "blue": 104,
+              "green": 59,
+              "red": 49
+            },
+            "hex": "313B68",
+            "percent": 0.5187530062670084,
+            "percentRounded": 1,
+            "pixelFraction": 0.0013818027,
+            "rgb": "49, 59,\n 104",
+            "score": 0.0027113524
+          },
+          {
+            "color": {
+              "green": 7,
+              "red": 70
+            },
+            "percent": 0.3925691827632737,
+            "percentRounded": 0,
+            "pixelFraction": 0.0023384353,
+            "score": 0.0020518308
+          },
+          {
+            "color": {
+              "blue": 3,
+              "green": 67,
+              "red": 157
+            },
+            "hex": "9D4303",
+            "percent": 12.403533445221,
+            "percentRounded": 12,
+            "pixelFraction": 0.03497024,
+            "rgb": "157, 67,\n 3",
+            "score": 0.064829215
+          },
+          {
+            "color": {
+              "blue": 6,
+              "green": 101,
+              "red": 206
+            },
+            "hex": "CE6506",
+            "percent": 11.734146837020916,
+            "percentRounded": 12,
+            "pixelFraction": 0.022108844,
+            "rgb": "206, 101,\n 6",
+            "score": 0.06133055
+          }
+        ]
+      }
+    },
+    "labelAnnotations": [
+      {
+        "description": "Food",
+        "mid": "/m/02wbm",
+        "score": 0.98074746,
+        "topicality": 0.98074746
+      },
+      {
+        "description": "Ingredient",
+        "mid": "/m/07xgrh",
+        "score": 0.9057096,
+        "topicality": 0.9057096
+      },
+      {
+        "description": "Bun",
+        "mid": "/m/0119x1zy",
+        "score": 0.904527,
+        "topicality": 0.904527
+      },
+      {
+        "description": "Fast food",
+        "mid": "/m/01_bhs",
+        "score": 0.8975613,
+        "topicality": 0.8975613
+      },
+      {
+        "description": "Staple food",
+        "mid": "/m/022tld",
+        "score": 0.8813652,
+        "topicality": 0.8813652
+      },
+      {
+        "description": "Recipe",
+        "mid": "/m/0p57p",
+        "score": 0.8791835,
+        "topicality": 0.8791835
+      },
+      {
+        "description": "Cuisine",
+        "mid": "/m/01ykh",
+        "score": 0.8574881,
+        "topicality": 0.8574881
+      },
+      {
+        "description": "Baked goods",
+        "mid": "/m/052lwg6",
+        "score": 0.85598934,
+        "topicality": 0.85598934
+      },
+      {
+        "description": "Dish",
+        "mid": "/m/02q08p0",
+        "score": 0.8440133,
+        "topicality": 0.8440133
+      },
+      {
+        "description": "Hamburger",
+        "mid": "/m/0cdn1",
+        "score": 0.83279806,
+        "topicality": 0.83279806
+      },
+      {
+        "description": "Produce",
+        "mid": "/m/036qh8",
+        "score": 0.796895,
+        "topicality": 0.796895
+      },
+      {
+        "description": "Sandwich",
+        "mid": "/m/0l515",
+        "score": 0.76612586,
+        "topicality": 0.76612586
+      },
+      {
+        "description": "Meat",
+        "mid": "/m/04scj",
+        "score": 0.7564648,
+        "topicality": 0.7564648
+      },
+      {
+        "description": "Finger food",
+        "mid": "/m/0b3dyl",
+        "score": 0.7445036,
+        "topicality": 0.7445036
+      },
+      {
+        "description": "Leaf vegetable",
+        "mid": "/m/05f725",
+        "score": 0.70921165,
+        "topicality": 0.70921165
+      },
+      {
+        "description": "Comfort food",
+        "mid": "/m/04q6ng",
+        "score": 0.6992524,
+        "topicality": 0.6992524
+      },
+      {
+        "description": "Fried food",
+        "mid": "/m/0bp3f6m",
+        "score": 0.6965386,
+        "topicality": 0.6965386
+      },
+      {
+        "description": "Junk food",
+        "mid": "/m/0h55b",
+        "score": 0.69200706,
+        "topicality": 0.69200706
+      },
+      {
+        "description": "Gluten",
+        "mid": "/m/03fw2",
+        "score": 0.669682,
+        "topicality": 0.669682
+      },
+      {
+        "description": "Bread",
+        "mid": "/m/09728",
+        "score": 0.66509366,
+        "topicality": 0.66509366
+      },
+      {
+        "description": "Burger king grilled chicken sandwiches",
+        "mid": "/m/026kcv4",
+        "score": 0.64238983,
+        "topicality": 0.64238983
+      },
+      {
+        "description": "Tableware",
+        "mid": "/m/04brg2",
+        "score": 0.63468385,
+        "topicality": 0.63468385
+      },
+      {
+        "description": "Vegan nutrition",
+        "mid": "/m/052w_x",
+        "score": 0.62550837,
+        "topicality": 0.62550837
+      },
+      {
+        "description": "American food",
+        "mid": "/m/01z1jf2",
+        "score": 0.609777,
+        "topicality": 0.609777
+      },
+      {
+        "description": "Buffalo burger",
+        "mid": "/m/0cc7bks",
+        "score": 0.59195495,
+        "topicality": 0.59195495
+      },
+      {
+        "description": "appetizer",
+        "mid": "/m/07pt9wt",
+        "score": 0.5485176,
+        "topicality": 0.5485176
+      },
+      {
+        "description": "Side dish",
+        "mid": "/m/07l8p5",
+        "score": 0.5409868,
+        "topicality": 0.5409868
+      },
+      {
+        "description": "Slider",
+        "mid": "/m/0c3y3jd",
+        "score": 0.5250179,
+        "topicality": 0.5250179
+      },
+      {
+        "description": "Mediterranean food",
+        "mid": "/m/04v5by",
+        "score": 0.50711966,
+        "topicality": 0.50711966
+      }
+    ],
+    "localizedObjectAnnotations": [
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.111075275,
+              "y": 0.035188142
+            },
+            {
+              "x": 0.8987239,
+              "y": 0.035188142
+            },
+            {
+              "x": 0.8987239,
+              "y": 0.99133664
+            },
+            {
+              "x": 0.111075275,
+              "y": 0.99133664
+            }
+          ]
+        },
+        "mid": "/m/0cdn1",
+        "name": "Hamburger",
+        "score": 0.9155934
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.003304303,
+              "y": 0.0046615484
+            },
+            {
+              "x": 0.39593554,
+              "y": 0.0046615484
+            },
+            {
+              "x": 0.39593554,
+              "y": 0.38937584
+            },
+            {
+              "x": 0.003304303,
+              "y": 0.38937584
+            }
+          ]
+        },
+        "mid": "/m/0271t",
+        "name": "Drink",
+        "score": 0.7493476
+      }
+    ],
+    "safeSearchAnnotation": {
+      "adult": "VERY_UNLIKELY",
+      "medical": "VERY_UNLIKELY",
+      "racy": "VERY_UNLIKELY",
+      "spoof": "VERY_UNLIKELY",
+      "violence": "VERY_UNLIKELY"
+    }
+  }
