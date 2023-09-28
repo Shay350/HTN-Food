@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  background-color: #ffa4a4;
+  font-family: Inter;
+}
+
+p,
+h2,
+h3,
+img,
+button {
+  margin: 0;
+}
+
+.h-flex {
+  display: flex;
+}
+
+.v-flex {
+  display: flex;
+  flex-direction: column;
+}
+
+#main-container {
+  /* background-color: white; */
+  height: 100vh;
+  width: 40%;
+  margin: auto;
+}
+
+/* .preview-img {
+  position: ;
+} */
+
+#header {
+  /* background-color: black; */
+  height: 8vh;
+  align-items: center;
+  justify-content: right;
+  padding: 0 12px;
+}
+
+#coin-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #f2f2f2;
+  width: fit-content;
+  height: 36px;
+  padding: 0 12px;
+  border-radius: 20px;
+  border: none;
+}
+
+#coin-container img {
+  height: 24px;
+  width: 24px;
+  padding-right: 8px;
+}
+
+#coin-container p {
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 300;
+}
+
+#pet-container {
+  /* background-color: green; */
+  height: 76vh;
+  align-items: center;
+  padding: 60px 60px;
+}
+
+#pet-container h2 {
+  /* background-color: #fff; */
+  font-weight: 600;
+}
+
+#pet-container h3 {
+  /* background-color: #fff; */
+  font-size: 38px;
+  font-weight: 300;
+  margin-top: 12px;
+  margin-bottom: 120px;
+}
+
+#pet-container img {
+  margin-bottom: 30px;
+}
+
+#hungerBar {
+  height: 24px;
+  width: 80%;
+  background-color: #96e89c; /* Initial color */
+  transition: background-color 1.2s, width 1.2s;
+}
+
+.w3-light-grey {
+  background-color: #dedede;
+  height: 5px;
+  width: 100%;
+}
+
+.w3-green {
+  background-color: #96e89c;
+  /* height: 24px; */
+  width: 100%;
+  transition: background-color 1.2s, width 1.2s; /* Smooth color transition */
+}
+
+.rounded-hunger-bar {
+  border-radius: 20px;
+  /* height: 200px; */
+  height: fit-content;
+  overflow: hidden;
+}
+
+#feed-button {
+  padding: 20px 32px;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  background-color: #ff8383;
+}
+
+#feed-button:hover {
+  background-color: #ff8d8d;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.button-container {
+  margin-top: 60px;
+}
+
+.justOk {
+  background-color: #afcfb1;
+}
+
+.warning {
+  background-color: #e8be96;
+}
+
+.danger {
+  background-color: #e896a3;
+}
+
+.critical {
+  background-color: #e74e2e;
+}
